@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/-breakingbad/static/css/main.de43d9d1.chunk.css",
-    "main.js": "/-breakingbad/static/js/main.08e5734c.chunk.js",
-    "main.js.map": "/-breakingbad/static/js/main.08e5734c.chunk.js.map",
+    "main.css": "/-breakingbad/static/css/main.dceb6f70.chunk.css",
+    "main.js": "/-breakingbad/static/js/main.1faed454.chunk.js",
+    "main.js.map": "/-breakingbad/static/js/main.1faed454.chunk.js.map",
     "runtime-main.js": "/-breakingbad/static/js/runtime-main.7f8e7725.js",
     "runtime-main.js.map": "/-breakingbad/static/js/runtime-main.7f8e7725.js.map",
     "static/js/2.69e25a74.chunk.js": "/-breakingbad/static/js/2.69e25a74.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.b64af8f0.chunk.js": "/-breakingbad/static/js/3.b64af8f0.chunk.js",
     "static/js/3.b64af8f0.chunk.js.map": "/-breakingbad/static/js/3.b64af8f0.chunk.js.map",
     "index.html": "/-breakingbad/index.html",
-    "static/css/main.de43d9d1.chunk.css.map": "/-breakingbad/static/css/main.de43d9d1.chunk.css.map",
+    "static/css/main.dceb6f70.chunk.css.map": "/-breakingbad/static/css/main.dceb6f70.chunk.css.map",
     "static/js/2.69e25a74.chunk.js.LICENSE.txt": "/-breakingbad/static/js/2.69e25a74.chunk.js.LICENSE.txt",
-    "static/media/homepage.css": "/-breakingbad/static/media/hp.ecdf70b4.jpg"
+    "static/media/homepage.css": "/-breakingbad/static/media/hp.3c628e3c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7f8e7725.js",
     "static/js/2.69e25a74.chunk.js",
-    "static/css/main.de43d9d1.chunk.css",
-    "static/js/main.08e5734c.chunk.js"
+    "static/css/main.dceb6f70.chunk.css",
+    "static/js/main.1faed454.chunk.js"
   ]
 }
