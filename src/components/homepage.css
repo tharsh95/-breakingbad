@@ -1,3 +1,10 @@
+/* *{
+    height: 0;
+    width: 0;
+    box-sizing: border-box;
+} */
+
+
 #main {
     display: grid;
     place-content: center;
@@ -6,7 +13,8 @@
   body {
     background-image: url(./hp.jpg);
     background-size: 100%;
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
+    overflow: hidden;
   }
   input {
     height: 2.5rem;
@@ -51,7 +59,7 @@
     transition: all 1s linear;
   }
   .imageContainer {
-    margin-top: 12rem;
+    margin-top: 2rem;
     margin-left: 4rem;
     display: grid;
     grid-template-rows: repeat(4, 1fr);
@@ -72,10 +80,21 @@
     font-size: 1.1rem;
   }
   .searchContainer {
-    margin-top: 12rem;
+    margin-top: 2rem;
     margin-left: 4rem;
     display: grid;
     grid-template-rows: repeat(4, 1fr);
     grid-template-columns: repeat(4, 1fr);
   }
-  
+
+button{
+    height: 35px;
+    background-color: #29773e;
+    border-radius: 15px;
+    margin: 1rem;
+    font-weight: 700;
+    padding: 2rem;
+    text-align: center;
+    line-height: 0.2rem;
+    font-size: 2rem;
+}
