@@ -56,14 +56,14 @@ const HomePage = () => {
                             <figure>
                                 <img src={el.img} alt={el.name} />
                                 <figcaption>
-                                    <p>Name: {el.name}</p>
-                                    <p>DOB: {el.birthday}</p>
-                                    <p>Role: {`${el.occupation}.`}</p>
-                                    <p>Status: {el.status}</p>
-                                    <p>Nickname: {el.nickname}</p>
-                                    <p>Portrayed by: {el.portrayed}</p>
-                                    <p>Category: {el.category}</p>
-                                    <p>Appearance: {el.appearance}</p>
+                                    <p><strong>Name</strong>: {el.name}</p>
+                                    <p><strong>DOB</strong>: {el.birthday}</p>
+                                    <p><strong>Role</strong>: {`${el.occupation}.`}</p>
+                                    <p><strong>Status</strong>: {el.status}</p>
+                                    <p><strong>Nickname</strong>: {el.nickname}</p>
+                                    <p><strong>Portrayed by</strong>: {el.portrayed}</p>
+                                    <p><strong>Category</strong>: {el.category}</p>
+                                    <p><strong>Appearance</strong>: {`${el.appearance}.`}</p>
                                 </figcaption>
                             </figure>
                         </a>
