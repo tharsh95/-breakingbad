@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/-breakingbad/static/css/main.32392036.chunk.css",
-    "main.js": "/-breakingbad/static/js/main.3f645454.chunk.js",
-    "main.js.map": "/-breakingbad/static/js/main.3f645454.chunk.js.map",
-    "runtime-main.js": "/-breakingbad/static/js/runtime-main.7f8e7725.js",
-    "runtime-main.js.map": "/-breakingbad/static/js/runtime-main.7f8e7725.js.map",
-    "static/js/2.69e25a74.chunk.js": "/-breakingbad/static/js/2.69e25a74.chunk.js",
-    "static/js/2.69e25a74.chunk.js.map": "/-breakingbad/static/js/2.69e25a74.chunk.js.map",
-    "static/js/3.b64af8f0.chunk.js": "/-breakingbad/static/js/3.b64af8f0.chunk.js",
-    "static/js/3.b64af8f0.chunk.js.map": "/-breakingbad/static/js/3.b64af8f0.chunk.js.map",
+    "main.css": "/-breakingbad/static/css/main.a55e900a.chunk.css",
+    "main.js": "/-breakingbad/static/js/main.a3205702.chunk.js",
+    "main.js.map": "/-breakingbad/static/js/main.a3205702.chunk.js.map",
+    "runtime-main.js": "/-breakingbad/static/js/runtime-main.cda6b21a.js",
+    "runtime-main.js.map": "/-breakingbad/static/js/runtime-main.cda6b21a.js.map",
+    "static/js/2.52202acf.chunk.js": "/-breakingbad/static/js/2.52202acf.chunk.js",
+    "static/js/2.52202acf.chunk.js.map": "/-breakingbad/static/js/2.52202acf.chunk.js.map",
+    "static/js/3.1ccce615.chunk.js": "/-breakingbad/static/js/3.1ccce615.chunk.js",
+    "static/js/3.1ccce615.chunk.js.map": "/-breakingbad/static/js/3.1ccce615.chunk.js.map",
     "index.html": "/-breakingbad/index.html",
-    "static/css/main.32392036.chunk.css.map": "/-breakingbad/static/css/main.32392036.chunk.css.map",
-    "static/js/2.69e25a74.chunk.js.LICENSE.txt": "/-breakingbad/static/js/2.69e25a74.chunk.js.LICENSE.txt",
-    "static/media/homepage.css": "/-breakingbad/static/media/hp.3c628e3c.jpg"
+    "static/css/main.a55e900a.chunk.css.map": "/-breakingbad/static/css/main.a55e900a.chunk.css.map",
+    "static/js/2.52202acf.chunk.js.LICENSE.txt": "/-breakingbad/static/js/2.52202acf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/-breakingbad/static/media/bb.c3fc96f5.jpg",
+    "static/media/logo.a3a715ab.png": "/-breakingbad/static/media/logo.a3a715ab.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f8e7725.js",
-    "static/js/2.69e25a74.chunk.js",
-    "static/css/main.32392036.chunk.css",
-    "static/js/main.3f645454.chunk.js"
+    "static/js/runtime-main.cda6b21a.js",
+    "static/js/2.52202acf.chunk.js",
+    "static/css/main.a55e900a.chunk.css",
+    "static/js/main.a3205702.chunk.js"
   ]
 }
