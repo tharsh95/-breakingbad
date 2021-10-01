@@ -1,0 +1,25 @@
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    /* margin-bottom: 0; */
+}
+input{
+    width: 50%;
+    border-color: blue;
+    border-radius: 6px;
+}
+input:active{
+    outline: 2px solid green;
+}
+.logo{
+    display: flex;
+    justify-content: center;align-items: center;
+    width: 100vw;
+}
+h1{
+    display: flex;;
+    justify-content: center;
+    color: darkgreen;
+}

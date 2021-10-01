@@ -1,0 +1,50 @@
+.image {
+  display: flex;
+  /* margin-top: 350px; */
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  position: relative;
+  top: 25%;
+}
+.characterImage {
+  margin: 10px;
+  width: 300px;
+  height: 600px;
+  border-radius: 10px;
+  justify-content: center;
+}
+figure {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  width: 250px;
+  height: 450px;
+  overflow: hidden;
+  margin: 10px;
+  position: relative;
+  
+}
+
+figcaption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1000%;
+    color: green;
+    opacity: 0;
+    padding-top: 3rem;
+}
+figure:hover img {
+    transform: scale(1.1);
+    border-color: transparent;
+  }
+  figcaption p {
+    margin-left: 2rem;
+  }
+  figure:hover figcaption {
+    opacity: 1;
+    background: rgb(0, 0, 0, 0.9);
+    transition: all 1s linear;
+  }
